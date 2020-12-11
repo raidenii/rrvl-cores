@@ -9,7 +9,6 @@ gpsp_libretro.so.zip
 handy_libretro.so.zip
 mame2000_libretro.so.zip
 mame2010_libretro.so.zip
-mednafen_ngp_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
 nekop2_libretro.so.zip
@@ -87,7 +86,6 @@ duckstation_libretro.so
 gambatte_libretro.so
 mame2003_plus_libretro.so
 mednafen_vb_libretro.so
-mgba_libretro.so
 picodrive_libretro.so
 px68k_libretro.so
 vice_x128_libretro.so
@@ -100,3 +98,5 @@ tic80_libretro.so
 flycast_libretro.so
 mame_libretro.so
 ppsspp_libretro.so
+mednafen_ngp_libretro.so
+mgba_libretro.so

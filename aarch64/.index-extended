@@ -9,7 +9,6 @@
 2020-03-08 53c48fd5 handy_libretro.so.zip
 2020-03-11 d4f8df37 mame2000_libretro.so.zip
 2020-03-08 518ef424 mame2010_libretro.so.zip
-2020-03-08 5a57f94a mednafen_ngp_libretro.so.zip
 2020-03-08 1216869c mednafen_pcfx_libretro.so.zip
 2020-03-08 a2a58a94 mednafen_supergrafx_libretro.so.zip
 2020-03-08 578cfa53 nekop2_libretro.so.zip
@@ -86,7 +85,6 @@
 2020-12-03 23b6f224 gambatte_libretro.so.zip
 2020-12-03 149ea4aa mame2003_plus_libretro.so.zip
 2020-12-03 fe8d3da6 mednafen_vb_libretro.so.zip
-2020-12-03 e3f27d6c mgba_libretro.so.zip
 2020-12-03 391b816e picodrive_libretro.so.zip
 2020-12-03 29803705 px68k_libretro.so.zip
 2020-12-03 98317b1a vice_x128_libretro.so.zip
@@ -99,3 +97,5 @@
 2020-12-10 628fbc2c flycast_libretro.so.zip
 2020-12-10 7a10b424 mame_libretro.so.zip
 2020-12-11 f40fe068 ppsspp_libretro.so.zip
+2020-12-11 5a384dd9 mednafen_ngp_libretro.so.zip
+2020-12-11 43d1231f mgba_libretro.so.zip
