@@ -9,9 +9,9 @@ indexout=$(echo -n "$(date +%Y-%m-%d)" \
 "$(echo $file.zip)")
 
 zip "$file.zip" $file
-sed -i /$file/d .index-extended
+sed -i /$file.zip/d .index-extended
 echo "$indexout" >> .index-extended
-sed -i /$file/d .index
-echo "$file" >> .index
+sed -i /$file.zip/d .index
+echo "$file.zip" >> .index
 
 rm $file
