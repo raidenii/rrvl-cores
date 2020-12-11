@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# run ./push -n to see what changed
+rsync --delete -av $* . eple.us:www/libretro/aarch64/
