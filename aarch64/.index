@@ -80,7 +80,6 @@ nestopiaCV_libretro.so
 mupen64plus_next_libretro.so
 gme_libretro.so
 puae_libretro.so
-ppsspp_libretro.so
 fbalpha2012_libretro.so
 fceumm_libretro.so
 mednafen_pce_fast_libretro.so
@@ -100,3 +99,4 @@ vice_xvic_libretro.so
 tic80_libretro.so
 flycast_libretro.so
 mame_libretro.so
+ppsspp_libretro.so

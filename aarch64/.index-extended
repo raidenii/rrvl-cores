@@ -79,7 +79,6 @@
 2020-09-11 3a6cebbc mupen64plus_next_libretro.so.zip
 2020-09-11 bca3dd8e gme_libretro.so.zip
 2020-09-11 cbadd950 puae_libretro.so.zip
-2020-09-11 6ee62dad ppsspp_libretro.so.zip
 2020-09-11 55f93842 fbalpha2012_libretro.so.zip
 2020-09-11 c7d16ec6 fceumm_libretro.so.zip
 2020-11-21 d1da7a2d mednafen_pce_fast_libretro.so.zip
@@ -99,3 +98,4 @@
 2020-12-10 a9c1d571 tic80_libretro.so.zip
 2020-12-10 628fbc2c flycast_libretro.so.zip
 2020-12-10 7a10b424 mame_libretro.so.zip
+2020-12-11 f40fe068 ppsspp_libretro.so.zip
