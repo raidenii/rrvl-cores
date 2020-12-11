@@ -1,10 +1,21 @@
-Copy the core to aarch64 or armv7l
+# RRVL RetroArch core repo
 
-Run
+## Add/update core
+
+Copy the core to aarch64 or arm7hf
 
     ./addcore nestopia_libretro.so
 
-Commit and push PR
+Commit and make PR. Someone with access to Safarikniv's hosting will push it out.
+
+## To push
+
+Dry-run to see what's changed:
 
     ./push -n 
+
+Copy from remote repo:
+
     ./pull
+
+If you want push access you can ask Safarikniv.
