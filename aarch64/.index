@@ -62,7 +62,6 @@ bsnes_accuracy_libretro.so.zip
 bsnes_balanced_libretro.so.zip
 bsnes_performance_libretro.so.zip
 bash_launcher_libretro.so.zip
-tgbdual_libretro.so.zip
 sameboy_libretro.so.zip
 gearsystem_libretro.so.zip
 o2em_libretro.so.zip
@@ -100,3 +99,4 @@ mame_libretro.so.zip
 ppsspp_libretro.so.zip
 mednafen_ngp_libretro.so.zip
 mgba_libretro.so.zip
+tgbdual_libretro.so.zip

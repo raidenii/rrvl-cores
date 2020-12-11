@@ -61,7 +61,6 @@
 2020-07-16 5db59174 bsnes_balanced_libretro.so.zip
 2020-07-16 c4e81ad1 bsnes_performance_libretro.so.zip
 2020-09-11 1a31adf8 bash_launcher_libretro.so.zip
-2020-09-11 f4982516 tgbdual_libretro.so.zip
 2020-09-11 924570af sameboy_libretro.so.zip
 2020-09-11 b4e70183 gearsystem_libretro.so.zip
 2020-09-11 dce9a365 o2em_libretro.so.zip
@@ -99,3 +98,4 @@
 2020-12-11 f40fe068 ppsspp_libretro.so.zip
 2020-12-11 5a384dd9 mednafen_ngp_libretro.so.zip
 2020-12-11 43d1231f mgba_libretro.so.zip
+2020-12-11 f4982516 tgbdual_libretro.so.zip
