@@ -33,7 +33,6 @@
 2020-03-18 dbd73bb0 fbalpha2012_neogeo_libretro.so.zip
 2020-03-26 52cdc987 parallel_n64_libretro.so.zip
 2020-05-08 c1cc9386 nestopia_libretro.so.zip
-2020-05-18 f6535beb fbneo_libretro.so.zip
 2020-05-28 7a921458 pokemini_libretro.so.zip
 2020-06-25 c0c9693a snes9x2010_libretro.so.zip
 2020-06-28 e5ee9143 cannonball_libretro.so.zip
@@ -99,3 +98,4 @@
 2020-12-11 5a384dd9 mednafen_ngp_libretro.so.zip
 2020-12-11 43d1231f mgba_libretro.so.zip
 2020-12-11 f4982516 tgbdual_libretro.so.zip
+2020-12-13 c4be7a89 fbneo_libretro.so.zip

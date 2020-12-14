@@ -34,7 +34,6 @@ fbalpha2012_cps3_libretro.so.zip
 fbalpha2012_neogeo_libretro.so.zip
 parallel_n64_libretro.so.zip
 nestopia_libretro.so.zip
-fbneo_libretro.so.zip
 pokemini_libretro.so.zip
 snes9x2010_libretro.so.zip
 cannonball_libretro.so.zip
@@ -100,3 +99,4 @@ ppsspp_libretro.so.zip
 mednafen_ngp_libretro.so.zip
 mgba_libretro.so.zip
 tgbdual_libretro.so.zip
+fbneo_libretro.so.zip
