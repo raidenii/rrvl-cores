@@ -83,7 +83,6 @@
 2020-12-03 23b6f224 gambatte_libretro.so.zip
 2020-12-03 149ea4aa mame2003_plus_libretro.so.zip
 2020-12-03 fe8d3da6 mednafen_vb_libretro.so.zip
-2020-12-03 391b816e picodrive_libretro.so.zip
 2020-12-03 29803705 px68k_libretro.so.zip
 2020-12-03 98317b1a vice_x128_libretro.so.zip
 2020-12-03 8552b0a7 mednafen_wswan_libretro.so.zip
@@ -99,3 +98,4 @@
 2020-12-11 43d1231f mgba_libretro.so.zip
 2020-12-11 f4982516 tgbdual_libretro.so.zip
 2020-12-13 c4be7a89 fbneo_libretro.so.zip
+2020-12-14 bba553e7 picodrive_libretro.so.zip
