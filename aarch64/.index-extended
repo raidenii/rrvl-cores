@@ -79,7 +79,6 @@
 2020-09-11 55f93842 fbalpha2012_libretro.so.zip
 2020-09-11 c7d16ec6 fceumm_libretro.so.zip
 2020-11-21 d1da7a2d mednafen_pce_fast_libretro.so.zip
-2020-12-02 3b9fbc16 duckstation_libretro.so.zip
 2020-12-03 23b6f224 gambatte_libretro.so.zip
 2020-12-03 149ea4aa mame2003_plus_libretro.so.zip
 2020-12-03 fe8d3da6 mednafen_vb_libretro.so.zip
@@ -99,3 +98,4 @@
 2020-12-11 f4982516 tgbdual_libretro.so.zip
 2020-12-13 c4be7a89 fbneo_libretro.so.zip
 2020-12-14 bba553e7 picodrive_libretro.so.zip
+2020-12-15 6d910b7b duckstation_libretro.so.zip
