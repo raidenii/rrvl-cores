@@ -89,7 +89,6 @@ nestopia_libretro.so.zip
 quicknes_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 cap32_libretro.so.zip
-ppsspp_libretro.so.zip
 cannonball_libretro.so.zip
 virtualjaguar_libretro.so.zip
 vice_x128_libretro.so.zip
@@ -101,3 +100,4 @@ mame2010_libretro.so.zip
 scummvm_libretro.so.zip
 mame_libretro.so.zip
 retro8_libretro.so.zip
+ppsspp_libretro.so.zip
