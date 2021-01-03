@@ -22,7 +22,6 @@ vice_xvic_libretro.so.zip
 freeintv_libretro.so.zip
 pokemini_libretro.so.zip
 picodrive_libretro.so.zip
-duckstation_libretro.so.zip
 reminiscence_libretro.so.zip
 bsnes_balanced_libretro.so.zip
 2048_libretro.so.zip
@@ -101,3 +100,4 @@ scummvm_libretro.so.zip
 mame_libretro.so.zip
 retro8_libretro.so.zip
 ppsspp_libretro.so.zip
+duckstation_libretro.so.zip

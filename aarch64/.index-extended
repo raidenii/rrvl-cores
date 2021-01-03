@@ -22,7 +22,6 @@
 2020-12-15 99b5a15d freeintv_libretro.so.zip
 2020-12-15 ea48b6c3 pokemini_libretro.so.zip
 2020-12-15 356daa7c picodrive_libretro.so.zip
-2020-12-15 0ff84da6 duckstation_libretro.so.zip
 2020-12-15 a6755165 reminiscence_libretro.so.zip
 2020-12-15 5db59174 bsnes_balanced_libretro.so.zip
 2020-12-15 9cf0907e 2048_libretro.so.zip
@@ -101,3 +100,4 @@
 2020-12-15 7a10b424 mame_libretro.so.zip
 2020-12-19 003764b1 retro8_libretro.so.zip
 2020-12-20 1c456662 ppsspp_libretro.so.zip
+2021-01-03 ac3a30e4 duckstation_libretro.so.zip
