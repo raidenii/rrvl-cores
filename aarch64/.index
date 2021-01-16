@@ -28,7 +28,6 @@ bsnes_balanced_libretro.so.zip
 fbalpha2012_neogeo_libretro.so.zip
 nekop2_libretro.so.zip
 stella_libretro.so.zip
-uzem_libretro.so.zip
 bsnes_accuracy_libretro.so.zip
 mrboom_libretro.so.zip
 bsnes_performance_libretro.so.zip
@@ -101,3 +100,4 @@ mame_libretro.so.zip
 retro8_libretro.so.zip
 duckstation_libretro.so.zip
 ppsspp_libretro.so.zip
+uzem_libretro.so.zip

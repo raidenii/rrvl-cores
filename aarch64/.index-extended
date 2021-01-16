@@ -28,7 +28,6 @@
 2020-12-15 dbd73bb0 fbalpha2012_neogeo_libretro.so.zip
 2020-12-15 a5f0afb2 nekop2_libretro.so.zip
 2020-12-15 71c58d6a stella_libretro.so.zip
-2020-12-15 fad73b0c uzem_libretro.so.zip
 2020-12-15 91b8fdf6 bsnes_accuracy_libretro.so.zip
 2020-12-15 dc39b456 mrboom_libretro.so.zip
 2020-12-15 c4e81ad1 bsnes_performance_libretro.so.zip
@@ -101,3 +100,4 @@
 2020-12-19 003764b1 retro8_libretro.so.zip
 2021-01-03 ac3a30e4 duckstation_libretro.so.zip
 2021-01-03 6ee62dad ppsspp_libretro.so.zip
+2021-01-16 ed2f454a uzem_libretro.so.zip
