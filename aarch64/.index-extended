@@ -25,7 +25,6 @@
 2021-01-26 ea48b6c3 pokemini_libretro.so.zip
 2021-01-26 356daa7c picodrive_libretro.so.zip
 2021-01-26 ed2f454a uzem_libretro.so.zip
-2021-01-26 ac3a30e4 duckstation_libretro.so.zip
 2021-01-26 a5f0afb2 nekop2_libretro.so.zip
 2021-01-26 9cf0907e 2048_libretro.so.zip
 2021-01-26 a6755165 reminiscence_libretro.so.zip
@@ -103,3 +102,4 @@
 2021-01-26 f4aefb06 scummvm_libretro.so.zip
 2021-01-26 7a10b424 mame_libretro.so.zip
 2021-01-29 ed5db1c1 dosbox_pure_libretro.so.zip
+2021-01-29 f7a8cfd8 duckstation_libretro.so.zip

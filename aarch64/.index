@@ -23,7 +23,6 @@ daphne_libretro.so.zip
 pokemini_libretro.so.zip
 picodrive_libretro.so.zip
 uzem_libretro.so.zip
-duckstation_libretro.so.zip
 nekop2_libretro.so.zip
 2048_libretro.so.zip
 reminiscence_libretro.so.zip
@@ -101,3 +100,4 @@ mame2010_libretro.so.zip
 scummvm_libretro.so.zip
 mame_libretro.so.zip
 dosbox_pure_libretro.so.zip
+duckstation_libretro.so.zip
