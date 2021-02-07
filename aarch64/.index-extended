@@ -45,7 +45,6 @@
 2021-01-26 d0b15f69 vice_xpet_libretro.so.zip
 2021-01-26 26cf49bf snes9x2002_libretro.so.zip
 2021-01-26 2edb738d craft_libretro.so.zip
-2021-01-26 02b2ee6d mgba_libretro.so.zip
 2021-01-26 d619598f gpsp_libretro.so.zip
 2021-01-26 bf1a79aa dinothawr_libretro.so.zip
 2021-01-26 f07a7ba1 mednafen_pcfx_libretro.so.zip
@@ -103,3 +102,4 @@
 2021-02-06 97842252 parallel_n64_libretro.so.zip
 2021-02-06 975f12e2 flycast_libretro.so.zip
 2021-02-06 b1b13ae4 genesis_plus_gx_libretro.so.zip
+2021-02-07 2bd49dc1 mgba_libretro.so.zip
