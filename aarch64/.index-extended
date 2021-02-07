@@ -82,7 +82,6 @@
 2021-01-26 12c46c55 chailove_libretro.so.zip
 2021-01-26 c7d16ec6 fceumm_libretro.so.zip
 2021-01-26 933f0728 tic80_libretro.so.zip
-2021-01-26 ac5b63c9 genesis_plus_gx_libretro.so.zip
 2021-01-26 1accf28a gambatte_libretro.so.zip
 2021-01-26 024181d7 quicknes_libretro.so.zip
 2021-01-26 1bba5d78 nestopia_libretro.so.zip
@@ -103,3 +102,4 @@
 2021-02-06 9bcdc5fd mupen64plus_next_libretro.so.zip
 2021-02-06 97842252 parallel_n64_libretro.so.zip
 2021-02-06 975f12e2 flycast_libretro.so.zip
+2021-02-06 b1b13ae4 genesis_plus_gx_libretro.so.zip

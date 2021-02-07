@@ -80,7 +80,6 @@ superflappybirds_libretro.so.zip
 chailove_libretro.so.zip
 fceumm_libretro.so.zip
 tic80_libretro.so.zip
-genesis_plus_gx_libretro.so.zip
 gambatte_libretro.so.zip
 quicknes_libretro.so.zip
 nestopia_libretro.so.zip
@@ -101,3 +100,4 @@ duckstation_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
 flycast_libretro.so.zip
+genesis_plus_gx_libretro.so.zip
