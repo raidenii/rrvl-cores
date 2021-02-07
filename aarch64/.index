@@ -43,7 +43,6 @@ spring_pcsx_rearmed32_libretro.so.zip
 vice_xpet_libretro.so.zip
 snes9x2002_libretro.so.zip
 craft_libretro.so.zip
-mgba_libretro.so.zip
 gpsp_libretro.so.zip
 dinothawr_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
@@ -101,3 +100,4 @@ mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
 flycast_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
+mgba_libretro.so.zip
