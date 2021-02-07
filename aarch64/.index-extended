@@ -74,7 +74,6 @@
 2021-01-26 53f87dc9 neocd_libretro.so.zip
 2021-01-26 bb41c1ee opera_libretro.so.zip
 2021-01-26 6820296f quasi88_libretro.so.zip
-2021-01-26 717d4c03 parallel_n64_libretro.so.zip
 2021-01-26 bca3dd8e gme_libretro.so.zip
 2021-01-26 6ee62dad ppsspp_libretro.so.zip
 2021-01-26 c666ed25 spring_flycast32_libretro.so.zip
@@ -103,3 +102,4 @@
 2021-01-29 ed5db1c1 dosbox_pure_libretro.so.zip
 2021-01-29 f7a8cfd8 duckstation_libretro.so.zip
 2021-02-06 9bcdc5fd mupen64plus_next_libretro.so.zip
+2021-02-06 97842252 parallel_n64_libretro.so.zip

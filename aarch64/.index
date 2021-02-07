@@ -72,7 +72,6 @@ handy_libretro.so.zip
 neocd_libretro.so.zip
 opera_libretro.so.zip
 quasi88_libretro.so.zip
-parallel_n64_libretro.so.zip
 gme_libretro.so.zip
 ppsspp_libretro.so.zip
 spring_flycast32_libretro.so.zip
@@ -101,3 +100,4 @@ mame_libretro.so.zip
 dosbox_pure_libretro.so.zip
 duckstation_libretro.so.zip
 mupen64plus_next_libretro.so.zip
+parallel_n64_libretro.so.zip
