@@ -52,7 +52,6 @@
 2021-01-26 cd129f35 dosbox_libretro.so.zip
 2021-01-26 6ba8d375 dosbox_svn_libretro.so.zip
 2021-01-26 4059b0dd gearboy_libretro.so.zip
-2021-01-26 628fbc2c flycast_libretro.so.zip
 2021-01-26 37117fb7 fbalpha2012_cps2_libretro.so.zip
 2021-01-26 b72f3c1a snes9x_libretro.so.zip
 2021-01-26 4da7e62e fbalpha2012_cps1_libretro.so.zip
@@ -103,3 +102,5 @@
 2021-01-29 ed5db1c1 dosbox_pure_libretro.so.zip
 2021-01-29 f7a8cfd8 duckstation_libretro.so.zip
 2021-02-06 9bcdc5fd mupen64plus_next_libretro.so.zip
+
+2021-02-06 975f12e2 flycast_libretro.so.zip
