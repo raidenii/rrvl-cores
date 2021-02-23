@@ -92,7 +92,6 @@
 2021-01-26 4edbb9a5 easyrpg_libretro.so.zip
 2021-01-26 e152504b mame2003_plus_libretro.so.zip
 2021-01-26 d4f8df37 mame2000_libretro.so.zip
-2021-01-26 38fe8cc8 fbneo_libretro.so.zip
 2021-01-26 01f2e554 mame2010_libretro.so.zip
 2021-01-26 f4aefb06 scummvm_libretro.so.zip
 2021-01-26 7a10b424 mame_libretro.so.zip
@@ -104,3 +103,4 @@
 2021-02-06 b1b13ae4 genesis_plus_gx_libretro.so.zip
 2021-02-07 2bd49dc1 mgba_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
+2021-02-23 0447dce0 fbneo_libretro.so.zip
