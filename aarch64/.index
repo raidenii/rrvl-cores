@@ -9,7 +9,6 @@ yabasanshiro_libretro.so.zip
 stella2014_libretro.so.zip
 snes9x2010_libretro.so.zip
 gearsystem_libretro.so.zip
-81_libretro.so.zip
 vice_xplus4_libretro.so.zip
 desmume2015_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
@@ -101,4 +100,4 @@ flycast_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 mgba_libretro.so.zip
 mpv_libretro.so.zip
-fbneo_libretro.so.zip
+81_libretro.so.zip
