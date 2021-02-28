@@ -94,7 +94,6 @@
 2021-01-26 01f2e554 mame2010_libretro.so.zip
 2021-01-26 f4aefb06 scummvm_libretro.so.zip
 2021-01-26 7a10b424 mame_libretro.so.zip
-2021-01-29 ed5db1c1 dosbox_pure_libretro.so.zip
 2021-01-29 f7a8cfd8 duckstation_libretro.so.zip
 2021-02-06 9bcdc5fd mupen64plus_next_libretro.so.zip
 2021-02-06 97842252 parallel_n64_libretro.so.zip
@@ -104,3 +103,5 @@
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
 2021-02-23 0447dce0 fbneo_libretro.so.zip
+2021-02-28 f767ad33 dosbox_pure_libretro.so.zip
+2021-02-28 85f737ef lowresnx_libretro.so.zip
