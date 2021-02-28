@@ -111,7 +111,6 @@
 2021-02-28 648a5a07 vice_xcbm5x0_libretro.so.zip
 2021-02-28 e9a04d45 vice_xplus4_libretro.so.zip
 2021-02-28 115755f1 vice_xvic_libretro.so.zip
-2021-02-28 630f7e48 genesisplusgx_libretro.so.zip
 2021-02-28 3c52164c vice_xpet_libretro.so.zip
 2021-02-28 f6b675c6 vice_xcbm2_libretro.so.zip
 2021-02-28 bdcce7b3 theodore_libretro.so.zip
@@ -123,3 +122,4 @@
 2021-02-28 1ac6bd13 vice_x128_libretro.so.zip
 2021-02-28 32a489bb mame2003_libretro.so.zip
 2021-02-28 782b64dd mame2015_libretro.so.zip
+2021-02-28 794c4d0c genesis_plus_gx_wide_libretro.so.zip
