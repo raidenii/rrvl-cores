@@ -92,7 +92,6 @@
 2021-01-29 f7a8cfd8 duckstation_libretro.so.zip
 2021-02-06 9bcdc5fd mupen64plus_next_libretro.so.zip
 2021-02-06 97842252 parallel_n64_libretro.so.zip
-2021-02-06 975f12e2 flycast_libretro.so.zip
 2021-02-06 b1b13ae4 genesis_plus_gx_libretro.so.zip
 2021-02-07 2bd49dc1 mgba_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
@@ -122,4 +121,5 @@
 2021-02-28 1ac6bd13 vice_x128_libretro.so.zip
 2021-02-28 32a489bb mame2003_libretro.so.zip
 2021-02-28 782b64dd mame2015_libretro.so.zip
-2021-02-28 794c4d0c genesis_plus_gx_wide_libretro.so.zip
+2021-03-02 71f49613 flycast_libretro.so.zip
+2021-03-02 d9c86c21 genesis_plus_gx_wide_libretro.so.zip
