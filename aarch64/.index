@@ -90,7 +90,6 @@ mame_libretro.so.zip
 duckstation_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
-flycast_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 mgba_libretro.so.zip
 mpv_libretro.so.zip
@@ -120,4 +119,5 @@ mesen_libretro.so.zip
 vice_x128_libretro.so.zip
 mame2003_libretro.so.zip
 mame2015_libretro.so.zip
+flycast_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
