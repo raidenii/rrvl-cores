@@ -1,4 +1,0 @@
-#!/bin/sh
-
-# run ./push -n to see what changed
-rsync --exclude=.git --delete -av $* . eple.us:www/libretro/.
