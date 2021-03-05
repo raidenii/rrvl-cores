@@ -103,7 +103,6 @@ snes9x2005_libretro.so.zip
 fceunext_libretro.so.zip
 ecwolf_libretro.so.zip
 mupen64plus_libretro.so.zip
-race_libretro.so.zip
 imageviewer_libretro.so.zip
 vice_xcbm5x0_libretro.so.zip
 vice_xplus4_libretro.so.zip
@@ -121,3 +120,4 @@ mame2003_libretro.so.zip
 mame2015_libretro.so.zip
 flycast_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
+race_libretro.so.zip
