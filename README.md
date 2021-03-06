@@ -1,4 +1,4 @@
-# RRVL RetroArch core repo
+# RK3326 RetroArch core repo
 
 ## Dependencies
 
