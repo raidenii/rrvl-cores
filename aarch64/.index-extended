@@ -95,7 +95,6 @@
 2021-02-06 b1b13ae4 genesis_plus_gx_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
-2021-02-23 0447dce0 fbneo_libretro.so.zip
 2021-02-28 f767ad33 dosbox_pure_libretro.so.zip
 2021-02-28 85f737ef lowresnx_libretro.so.zip
 2021-02-28 9e7b1caa freechaf_libretro.so.zip
@@ -121,5 +120,6 @@
 2021-02-28 782b64dd mame2015_libretro.so.zip
 2021-03-02 d9c86c21 genesis_plus_gx_wide_libretro.so.zip
 2021-03-04 a69f0378 race_libretro.so.zip
-2021-03-10 e7280744 flycast_libretro.so.zip
-2021-03-20 c08bc979 mgba_libretro.so.zip
+2021-03-25 0453948b mgba_libretro.so.zip
+2021-03-25 b6f64536 flycast_libretro.so.zip
+2021-03-25 48054517 fbneo_libretro.so.zip
