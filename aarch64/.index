@@ -61,7 +61,6 @@ x1_libretro.so.zip
 spring_mupen64plus_standalone_libretro.so.zip
 fbalpha2012_libretro.so.zip
 puae_libretro.so.zip
-handy_libretro.so.zip
 neocd_libretro.so.zip
 opera_libretro.so.zip
 quasi88_libretro.so.zip
@@ -122,3 +121,4 @@ mgba_libretro.so.zip
 flycast_libretro.so.zip
 fbneo_libretro.so.zip
 potator_libretro.so.zip
+handy_libretro.so.zip

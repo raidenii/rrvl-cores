@@ -63,7 +63,6 @@
 2021-01-26 c666ed25 spring_mupen64plus_standalone_libretro.so.zip
 2021-01-26 55f93842 fbalpha2012_libretro.so.zip
 2021-01-26 cbadd950 puae_libretro.so.zip
-2021-01-26 7d363875 handy_libretro.so.zip
 2021-01-26 53f87dc9 neocd_libretro.so.zip
 2021-01-26 bb41c1ee opera_libretro.so.zip
 2021-01-26 6820296f quasi88_libretro.so.zip
@@ -124,3 +123,4 @@
 2021-03-25 b6f64536 flycast_libretro.so.zip
 2021-03-25 48054517 fbneo_libretro.so.zip
 2021-04-24 2bfc87ee potator_libretro.so.zip
+2021-05-08 b8fe9b9a handy_libretro.so.zip
