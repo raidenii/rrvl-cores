@@ -99,7 +99,6 @@ meteor_libretro.so.zip
 snes9x2005_libretro.so.zip
 fceunext_libretro.so.zip
 ecwolf_libretro.so.zip
-mupen64plus_libretro.so.zip
 imageviewer_libretro.so.zip
 vice_xcbm5x0_libretro.so.zip
 vice_xplus4_libretro.so.zip
@@ -122,3 +121,4 @@ flycast_libretro.so.zip
 fbneo_libretro.so.zip
 potator_libretro.so.zip
 handy_libretro.so.zip
+mupen64plus_libretro.so.zip

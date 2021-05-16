@@ -101,7 +101,6 @@
 2021-02-28 e4382972 snes9x2005_libretro.so.zip
 2021-02-28 6fe42123 fceunext_libretro.so.zip
 2021-02-28 19920212 ecwolf_libretro.so.zip
-2021-02-28 d37f3212 mupen64plus_libretro.so.zip
 2021-02-28 cfd54acf imageviewer_libretro.so.zip
 2021-02-28 648a5a07 vice_xcbm5x0_libretro.so.zip
 2021-02-28 e9a04d45 vice_xplus4_libretro.so.zip
@@ -124,3 +123,4 @@
 2021-03-25 48054517 fbneo_libretro.so.zip
 2021-04-24 2bfc87ee potator_libretro.so.zip
 2021-05-08 b8fe9b9a handy_libretro.so.zip
+2021-05-16 e629bf30 mupen64plus_libretro.so.zip
