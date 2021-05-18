@@ -89,7 +89,6 @@ mame_libretro.so.zip
 duckstation_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
-genesis_plus_gx_libretro.so.zip
 mpv_libretro.so.zip
 81_libretro.so.zip
 dosbox_pure_libretro.so.zip
@@ -123,3 +122,4 @@ handy_libretro.so.zip
 mupen64plus_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
+genesis_plus_gx_libretro.so.zip
