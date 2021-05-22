@@ -117,7 +117,6 @@
 2021-02-28 782b64dd mame2015_libretro.so.zip
 2021-03-02 d9c86c21 genesis_plus_gx_wide_libretro.so.zip
 2021-03-04 a69f0378 race_libretro.so.zip
-2021-03-25 b6f64536 flycast_libretro.so.zip
 2021-03-25 48054517 fbneo_libretro.so.zip
 2021-04-24 2bfc87ee potator_libretro.so.zip
 2021-05-08 b8fe9b9a handy_libretro.so.zip
@@ -125,3 +124,5 @@
 2021-05-18 0b51cc20 mgba_libretro.so.zip
 2021-05-18 47cf1cd6 mgba_rumble_libretro.so.zip
 2021-05-18 8d83522d genesis_plus_gx_libretro.so.zip
+2021-05-22 fd524715 flycast_rumble_libretro.so.zip
+2021-05-22 64a4dfca flycast_libretro.so.zip

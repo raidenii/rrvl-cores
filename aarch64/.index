@@ -115,7 +115,6 @@ mame2003_libretro.so.zip
 mame2015_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 race_libretro.so.zip
-flycast_libretro.so.zip
 fbneo_libretro.so.zip
 potator_libretro.so.zip
 handy_libretro.so.zip
@@ -123,3 +122,5 @@ mupen64plus_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
+flycast_rumble_libretro.so.zip
+flycast_libretro.so.zip

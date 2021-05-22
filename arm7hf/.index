@@ -19,3 +19,5 @@ handy_libretro.so
 genesis_plus_gx_wide_libretro.so.zip
 uae4arm_libretro.so.zip
 handy_libretro.so.zip
+flycast_libretro.so.zip
+flycast32_rumble_libretro.so.zip
