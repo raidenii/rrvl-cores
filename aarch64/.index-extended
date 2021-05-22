@@ -87,7 +87,6 @@
 2021-01-26 01f2e554 mame2010_libretro.so.zip
 2021-01-26 f4aefb06 scummvm_libretro.so.zip
 2021-01-26 7a10b424 mame_libretro.so.zip
-2021-01-29 f7a8cfd8 duckstation_libretro.so.zip
 2021-02-06 9bcdc5fd mupen64plus_next_libretro.so.zip
 2021-02-06 97842252 parallel_n64_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
@@ -126,3 +125,4 @@
 2021-05-22 fd524715 flycast_rumble_libretro.so.zip
 2021-05-22 64a4dfca flycast_libretro.so.zip
 2021-05-22 9f36fef4 gpsp_libretro.so.zip
+2021-05-22 cf073fd3 duckstation_libretro.so.zip
