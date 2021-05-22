@@ -40,7 +40,6 @@
 2021-01-26 c666ed25 spring_pcsx_rearmed32_libretro.so.zip
 2021-01-26 26cf49bf snes9x2002_libretro.so.zip
 2021-01-26 2edb738d craft_libretro.so.zip
-2021-01-26 d619598f gpsp_libretro.so.zip
 2021-01-26 bf1a79aa dinothawr_libretro.so.zip
 2021-01-26 f07a7ba1 mednafen_pcfx_libretro.so.zip
 2021-01-26 cd129f35 dosbox_libretro.so.zip
@@ -126,3 +125,4 @@
 2021-05-18 8d83522d genesis_plus_gx_libretro.so.zip
 2021-05-22 fd524715 flycast_rumble_libretro.so.zip
 2021-05-22 64a4dfca flycast_libretro.so.zip
+2021-05-22 9f36fef4 gpsp_libretro.so.zip

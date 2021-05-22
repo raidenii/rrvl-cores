@@ -38,7 +38,6 @@ mu_libretro.so.zip
 spring_pcsx_rearmed32_libretro.so.zip
 snes9x2002_libretro.so.zip
 craft_libretro.so.zip
-gpsp_libretro.so.zip
 dinothawr_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 dosbox_libretro.so.zip
@@ -124,3 +123,4 @@ mgba_rumble_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 flycast_rumble_libretro.so.zip
 flycast_libretro.so.zip
+gpsp_libretro.so.zip
