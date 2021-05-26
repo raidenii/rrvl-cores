@@ -79,7 +79,6 @@ mednafen_wswan_libretro.so.zip
 virtualjaguar_libretro.so.zip
 cap32_libretro.so.zip
 cannonball_libretro.so.zip
-easyrpg_libretro.so.zip
 mame2003_plus_libretro.so.zip
 mame2000_libretro.so.zip
 mame2010_libretro.so.zip
@@ -124,3 +123,4 @@ flycast_libretro.so.zip
 gpsp_libretro.so.zip
 duckstation_libretro.so.zip
 fbneo_libretro.so.zip
+easyrpg_libretro.so.zip

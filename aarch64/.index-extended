@@ -81,7 +81,6 @@
 2021-01-26 cba6dacc virtualjaguar_libretro.so.zip
 2021-01-26 801da5c5 cap32_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
-2021-01-26 4edbb9a5 easyrpg_libretro.so.zip
 2021-01-26 e152504b mame2003_plus_libretro.so.zip
 2021-01-26 d4f8df37 mame2000_libretro.so.zip
 2021-01-26 01f2e554 mame2010_libretro.so.zip
@@ -126,3 +125,4 @@
 2021-05-22 9f36fef4 gpsp_libretro.so.zip
 2021-05-22 cf073fd3 duckstation_libretro.so.zip
 2021-05-23 acf0ebd7 fbneo_libretro.so.zip
+2021-05-26 f0d67191 easyrpg_libretro.so.zip
