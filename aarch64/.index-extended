@@ -41,7 +41,6 @@
 2021-01-26 26cf49bf snes9x2002_libretro.so.zip
 2021-01-26 2edb738d craft_libretro.so.zip
 2021-01-26 bf1a79aa dinothawr_libretro.so.zip
-2021-01-26 f07a7ba1 mednafen_pcfx_libretro.so.zip
 2021-01-26 cd129f35 dosbox_libretro.so.zip
 2021-01-26 6ba8d375 dosbox_svn_libretro.so.zip
 2021-01-26 4059b0dd gearboy_libretro.so.zip
@@ -126,3 +125,4 @@
 2021-05-22 cf073fd3 duckstation_libretro.so.zip
 2021-05-23 acf0ebd7 fbneo_libretro.so.zip
 2021-05-26 f46ef54b easyrpg_libretro.so.zip
+2021-06-01 779a433b mednafen_pcfx_libretro.so.zip

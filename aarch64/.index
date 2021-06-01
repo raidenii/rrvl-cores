@@ -39,7 +39,6 @@ spring_pcsx_rearmed32_libretro.so.zip
 snes9x2002_libretro.so.zip
 craft_libretro.so.zip
 dinothawr_libretro.so.zip
-mednafen_pcfx_libretro.so.zip
 dosbox_libretro.so.zip
 dosbox_svn_libretro.so.zip
 gearboy_libretro.so.zip
@@ -124,3 +123,4 @@ gpsp_libretro.so.zip
 duckstation_libretro.so.zip
 fbneo_libretro.so.zip
 easyrpg_libretro.so.zip
+mednafen_pcfx_libretro.so.zip
