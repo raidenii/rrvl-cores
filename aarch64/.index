@@ -93,7 +93,6 @@ freechaf_libretro.so.zip
 meteor_libretro.so.zip
 snes9x2005_libretro.so.zip
 fceunext_libretro.so.zip
-ecwolf_libretro.so.zip
 imageviewer_libretro.so.zip
 vice_xcbm5x0_libretro.so.zip
 vice_xplus4_libretro.so.zip
@@ -125,3 +124,4 @@ fbneo_libretro.so.zip
 easyrpg_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
+ecwolf_libretro.so.zip

@@ -95,7 +95,6 @@
 2021-02-28 215d2776 meteor_libretro.so.zip
 2021-02-28 e4382972 snes9x2005_libretro.so.zip
 2021-02-28 6fe42123 fceunext_libretro.so.zip
-2021-02-28 19920212 ecwolf_libretro.so.zip
 2021-02-28 cfd54acf imageviewer_libretro.so.zip
 2021-02-28 648a5a07 vice_xcbm5x0_libretro.so.zip
 2021-02-28 e9a04d45 vice_xplus4_libretro.so.zip
@@ -127,3 +126,4 @@
 2021-05-26 f46ef54b easyrpg_libretro.so.zip
 2021-06-01 779a433b mednafen_pcfx_libretro.so.zip
 2021-06-16 3ca1fc97 mednafen_supafaust_libretro.so.zip
+2021-06-19 7a723550 ecwolf_libretro.so.zip
