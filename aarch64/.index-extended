@@ -89,7 +89,6 @@
 2021-02-06 97842252 parallel_n64_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
-2021-02-28 f767ad33 dosbox_pure_libretro.so.zip
 2021-02-28 85f737ef lowresnx_libretro.so.zip
 2021-02-28 9e7b1caa freechaf_libretro.so.zip
 2021-02-28 215d2776 meteor_libretro.so.zip
@@ -127,3 +126,4 @@
 2021-06-01 779a433b mednafen_pcfx_libretro.so.zip
 2021-06-16 3ca1fc97 mednafen_supafaust_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
+2021-07-05 b18d9408 dosbox_pure_libretro.so.zip

@@ -87,7 +87,6 @@ mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
 mpv_libretro.so.zip
 81_libretro.so.zip
-dosbox_pure_libretro.so.zip
 lowresnx_libretro.so.zip
 freechaf_libretro.so.zip
 meteor_libretro.so.zip
@@ -125,3 +124,4 @@ easyrpg_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
 ecwolf_libretro.so.zip
+dosbox_pure_libretro.so.zip
